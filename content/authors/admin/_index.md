@@ -63,13 +63,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "faresamin1995i@gmail.com"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-Nelson Bighetti is a Ph.D. student at the University of Souk Ahras, Sp : Veterinary anatomy. Working with Professor Tarek Khenenou. And Doctor Rahmoune Djallal Eddine. currently studying veterinary anatomy, focusing on macro and microscopic aspect of immune system in algerian dromedary.
+Fares Mohamed Amine is a Ph.D. student at the University of Souk Ahras, Sp : Veterinary anatomy. Working with Professor Tarek Khenenou. And Doctor Rahmoune Djallal Eddine. currently studying veterinary anatomy, focusing on macro and microscopic aspect of immune system in algerian dromedary.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
